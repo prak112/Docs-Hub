@@ -15,7 +15,9 @@ A centralized repository with meta data about the projects and reference to thei
 
 ## MERN
  - **[Full Stack Open](https://github.com/prak112/fullstack-open-core/tree/main#)** : Platform for self-learning full-stack development using MERN stack
-   - **Parts 0-2** : [DEBUG_LOG](https://github.com/prak112/fullstack-open-core/blob/main/DEBUG_LOG.md)
+   - **Parts 0-2** :
+     - [README](https://github.com/prak112/fullstack-open-core#overview)
+     - [DEBUG_LOG](https://github.com/prak112/fullstack-open-core/blob/main/DEBUG_LOG.md)
    - **Part 3** :
      - [README](https://github.com/prak112/FullStackOpen-core-part3#overview)
      - [DEBUG_LOG](https://github.com/prak112/FullStackOpen-core-part3/blob/main/DEBUG_LOG.md)
