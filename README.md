@@ -2,17 +2,6 @@
 A centralized repository with meta data about the projects and reference to their documentations.
 
 # Projects
-## DJANGO
-  - **[CS50-Web Development](https://github.com/prak112/cs50-webdev/tree/main/django#)** : Platform for self-learning Web Development using Python   
-  
-  - **[Wiki](https://github.com/prak112/cs50-webdev/tree/main/django/wiki#readme)** : Web application for users to add and save notes 
-    - [Features Implemented](https://github.com/prak112/cs50-webdev/blob/main/django/wiki/docs/TASKS.md)
-    - [DEBUG_LOG](https://github.com/prak112/cs50-webdev/blob/main/django/wiki/docs/DEBUG_LOG.md)
-
-  - **[Image Barter Bazaar](https://github.com/prak112/Image-Barter-Bazaar#)** : Ecommerce platform for exchanging images and art
-    - [Detailed Project Documentation](https://github.com/prak112/Image-Barter-Bazaar/wiki) 
-    - *MAJOR MISTAKE - Missed documenting Issues*
-
 ## MERN
  - **[Full Stack Open](https://github.com/prak112/fullstack-open-core/tree/main#)** : Platform for self-learning full-stack development using MERN stack
    - **Parts 0-2** :
@@ -36,5 +25,20 @@ A centralized repository with meta data about the projects and reference to thei
    - **Backend**
      - [README](https://github.com/prak112/Symptom-Checker-backend#overview)
      - [FEATURES](https://github.com/prak112/Symptom-Checker-backend/blob/main/docs/FEATURE_LOG.md#features-)
-     - [DEBUG_LOG](https://github.com/prak112/Symptom-Checker-backend/blob/main/docs/DEBUG_LOG.md)   
+     - [DEBUG_LOG](https://github.com/prak112/Symptom-Checker-backend/blob/main/docs/DEBUG_LOG.md)
+    
+<hr>
+
+## Django
+  - **[CS50-Web Development](https://github.com/prak112/cs50-webdev/tree/main/django#)** : Platform for self-learning Web Development using Python   
+  
+  - **[Wiki](https://github.com/prak112/cs50-webdev/tree/main/django/wiki#readme)** : Web application for users to add and save notes 
+    - [Features Implemented](https://github.com/prak112/cs50-webdev/blob/main/django/wiki/docs/TASKS.md)
+    - [DEBUG_LOG](https://github.com/prak112/cs50-webdev/blob/main/django/wiki/docs/DEBUG_LOG.md)
+
+  - **[Image Barter Bazaar](https://github.com/prak112/Image-Barter-Bazaar#)** : Ecommerce platform for exchanging images and art
+    - [Detailed Project Documentation](https://github.com/prak112/Image-Barter-Bazaar/wiki) 
+    - *MAJOR MISTAKE - Missed documenting Issues*
+
+  
      
