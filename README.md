@@ -2,8 +2,14 @@
 A centralized repository with meta data about the projects and reference to their documentations.
 
 # Projects
+## Python + FastAPI
+- **[Healthy Minds](https://github.com/evgeniia-dev/healthy-minds?tab=readme-ov-file#overview)**
+- A collaborative project built with extensive planning using SDLC methodology as part of the Software Engineering course project, where I contributed in the Backend Development and Testing.
+- Mental health monitoring system built using React/FastAPI/PostgreSQL and Sotkanet API for real-time evaluation of patient mental status.
+- [Documentation](https://github.com/evgeniia-dev/healthy-minds/wiki)
+
 ## MERN
- - **[ICD Symptom Checker and Triage System](https://github.com/prak112/ICD11-SymptomChecker/blob/main/README.md#overview)** : Web application for users to medically diagnose their health symptoms
+ - **[Symptom Diagnosis Tool](https://github.com/prak112/SymptomDiagnosisTool/blob/main/README.md#overview)** : Web application for users to medically diagnose their health symptoms
    - **Mobile Client**
      - [README](https://github.com/prak112/SymptomChecker-frontend-mobile/tree/main)
      - [DEBUG_LOG](https://github.com/prak112/SymptomChecker-frontend-mobile/blob/main/docs/DEBUG_LOG.md)
@@ -19,7 +25,7 @@ A centralized repository with meta data about the projects and reference to thei
      - [DEBUG_LOG](https://github.com/prak112/Symptom-Checker-backend/blob/main/docs/DEBUG_LOG.md)
 
 
-## Django
+## Python + Django
   - **[Image Barter Bazaar](https://github.com/prak112/Image-Barter-Bazaar#)** : Ecommerce platform for exchanging images and art
     - [Detailed Project Documentation](https://github.com/prak112/Image-Barter-Bazaar/wiki) 
     - *Missed documenting Issues*
